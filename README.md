@@ -1,4 +1,4 @@
-# SpamScript - Sequential Farming Script
+# SpamScript-Sequential Farming Script
 
 A refined sequential farming script for Base mainnet that creates ephemeral wallets, funds them, and sends `storeMessage` transactions at a controlled rate.
 
