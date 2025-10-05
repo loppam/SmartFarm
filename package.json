@@ -1,0 +1,25 @@
+{
+  "name": "spamscript",
+  "version": "1.0.0",
+  "description": "Sequential farming script for Base mainnet",
+  "type": "module",
+  "main": "farm-sequential.js",
+  "scripts": {
+    "start": "node farm-sequential.js",
+    "farm": "node farm-sequential.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "p-retry": "^6.2.0",
+    "dotenv": "^16.3.1",
+    "yargs": "^17.7.2"
+  },
+  "keywords": [
+    "ethereum",
+    "base",
+    "farming",
+    "blockchain"
+  ],
+  "author": "",
+  "license": "MIT"
+}
